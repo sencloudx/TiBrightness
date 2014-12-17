@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="me">
+			<Button  class="brightness_btn" id="current_btn" title=" " onClick="current_click"/>
+			<Button class="brightness_btn" id="recover_btn" title=" " onClick="recover_click"/>
+	</Window>
+</Alloy>
+
+

@@ -1,0 +1,14 @@
+"#me": {
+	backgroundColor: "white",
+	layout: "vertical"
+},
+
+".brightness_btn":{
+	backgroundColor: "#8ff",
+	center: true,
+	width: "200dp",
+	left: "30dp",
+	right: "30dp",
+	top: "30dp",
+	color: "#000"
+}
